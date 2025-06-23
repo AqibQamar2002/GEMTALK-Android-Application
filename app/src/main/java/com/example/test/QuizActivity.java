@@ -230,7 +230,7 @@ public class QuizActivity extends AppCompatActivity {
 
         RequestBody body = RequestBody.create(jsonBody.toString(), MediaType.get("application/json; charset=utf-8"));
         Request request = new Request.Builder()
-                .url("https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyCu7sObntx-m7_QIGSspoYGB8VuiHf_vAI")
+                .url("https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=<Your_API_Key>")
                 .post(body)
                 .addHeader("Content-Type", "application/json")
                 .build();
