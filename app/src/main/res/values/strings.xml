@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">test</string>
+
+    <string-array name="quiz_levels">
+        <item>Beginner</item>
+        <item>Intermediate</item>
+        <item>Advanced</item>
+    </string-array>
+
+    <string-array name="quiz_types">
+        <item>Fill in the Blanks</item>
+        <item>Synonyms</item>
+        <item>Antonyms</item>
+        <item>Sentence Correction</item>
+        <item>Parts of Speech</item>
+        <item>Idioms and Phrases</item>
+    </string-array>
+</resources>

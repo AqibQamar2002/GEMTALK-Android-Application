@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Light Blue Color Scheme -->
+    <color name="primary">#3B82F6</color>
+    <color name="primary_dark">#1E40AF</color>
+    <color name="primary_light">#DBEAFE</color>
+    <color name="secondary">#0EA5E9</color>
+    <color name="background">#F0F9FF</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#1F2937</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="badge_background">#EFF6FF</color>
+</resources>
